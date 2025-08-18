@@ -1,4 +1,6 @@
-## Hi there 👋
+## PENG MINQI 👋
+
+- I am a undergraduate student majored in Computer Science at the Chinese University of Hong Kong.
 
 <!--
 **mencaire/mencaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
