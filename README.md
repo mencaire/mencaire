@@ -1,6 +1,9 @@
 ## PENG MINQI 👋
 
 - I am a undergraduate student majored in Computer Science at the Chinese University of Hong Kong.
+- I have made contributions to two course group projects at CUHK (Software engineering and Database Systems).
+- I also completed a Blockchian course individual project on my own.
+- My Final Year Project is about Vision-language Models.
 
 <!--
 **mencaire/mencaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
