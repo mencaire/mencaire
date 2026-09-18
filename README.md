@@ -1,4 +1,4 @@
-## PENG MINQI 👋
+## MINQI PENG👋
 
 - Bsc. in Computer Science at The Chinese University of Hong Kong 2022-2026.
 - MS in Applied Analytics at Columbia University 2026-Present.
